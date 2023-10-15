@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435507852985",
+    "project_id": "pani-wala-53be5",
+    "storage_bucket": "pani-wala-53be5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435507852985:android:07606724ba053eba6c8d68",
+        "android_client_info": {
+          "package_name": "com.paniwala.paniwalaforbusiness"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjl5XRNZRYzFHMM1Zcmr_LYHxvgqtuQv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
